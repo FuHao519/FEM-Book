@@ -1,0 +1,9 @@
+TITLE = "Example: IJ Ordered Data"
+VARIABLES = "X", "Y", "Temperature", "Pressure"
+ZONE I=2, J=3, F=POINT
+3 0 0 50
+7 2 0 43
+2 4 1 42
+6 6 0 37
+1 8 1 30
+5 9 1 21
